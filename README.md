@@ -12,7 +12,7 @@
     2. Variables
     <ul>
       <li>1. Let</li>
-      <li>2. COnst</li>
+      <li>2. Const</li>
     </ul>
   </li>
   <li>
