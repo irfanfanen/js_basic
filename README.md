@@ -4,8 +4,9 @@
   <li>
     1. Syntax
     <ul>
-      <li>1. Semicoluns</li>
+      <li>1. Semicolons</li>
       <li>2. Comments</li>
+      <li>3. Case Sensitive</li>
     </ul>
   </li>
   <li>
